@@ -1,5 +1,5 @@
 # predict_house_prices
-- Predict house prices for districts in california by training and testing appropriate ML model on a dataset containing information of more than 20,000 district records dataset in california.
+- Predict house prices for districts in california by training and testing appropriate ML model on a dataset containing information of more than 20,000 district records in california.
 - 1] Explanatory data analysis to understand the data to select the features and select an appropriate model 
 - 2] Data Preprocessing and feature engineering with pandas 
 - 3] cleaned and created additional features in the dataset
